@@ -1,0 +1,16 @@
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\HC32F460_LL_Driver\src\hc32_ll_tmr4.c
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\HC32F460_LL_Driver\inc\hc32_ll_tmr4.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\HC32F460_LL_Driver\inc\hc32_ll_def.h
+.\output\debug\hc32_ll_tmr4.o: D:\software\install\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\debug\hc32_ll_tmr4.o: D:\software\install\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Device\HDSC\hc32f4xx\Include\hc32f4xx.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Device\HDSC\hc32f4xx\Include\hc32f460.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Include\core_cm4.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Include\cmsis_version.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Include\cmsis_compiler.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Include\cmsis_armcc.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Include\mpu_armv7.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Device\HDSC\hc32f4xx\Include\system_hc32f460.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\cmsis\Device\HDSC\hc32f4xx\Include\hc32f4xx.h
+.\output\debug\hc32_ll_tmr4.o: ..\Application\inc\hc32f4xx_conf.h
+.\output\debug\hc32_ll_tmr4.o: ..\Drivers\HC32F460_LL_Driver\inc\hc32_ll_utility.h
